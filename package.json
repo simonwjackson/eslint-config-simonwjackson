@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-simonwjackson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonwjackson/eslint-config-simonwjackson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonwjackson/eslint-config-simonwjackson/issues"
+  },
+  "homepage": "https://github.com/simonwjackson/eslint-config-simonwjackson#readme"
+}
