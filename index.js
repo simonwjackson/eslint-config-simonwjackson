@@ -8,6 +8,7 @@ module.exports = {
         "ecmaVersion": 2018
     },
     "rules": {
+        "quote-props": ["error", "as-needed"],
         "no-multiple-empty-lines": ["error", {
             "max": 1,
             "maxBOF": 1
