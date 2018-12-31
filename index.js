@@ -8,6 +8,7 @@ module.exports = {
         "ecmaVersion": 2018
     },
     "rules": {
+        'space-infix-ops': "error",
         "object-curly-spacing": ["error", "always"],
         "quote-props": ["error", "as-needed"],
         "no-multiple-empty-lines": ["error", {
