@@ -10,6 +10,7 @@ module.exports = {
     "rules": {
         'space-infix-ops': "error",
         "object-curly-spacing": ["error", "always"],
+        'curly': ["error", "multi", "consistent"],
         "quote-props": ["error", "as-needed"],
         "no-multiple-empty-lines": ["error", {
             "max": 1,
